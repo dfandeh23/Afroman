@@ -1,3 +1,3 @@
 # Afroman
-Afro's creation 
-index.html
+Afro's-creation 
+Afro's-creation/index.html
